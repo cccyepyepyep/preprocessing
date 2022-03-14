@@ -16,3 +16,4 @@ https://www.kaggle.com/datasnaek/youtube-new
 ## Some visualization results from notebook
 
 ![Image text](images/picture1.png)
+![Image text](images/picture2.png)
